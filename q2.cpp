@@ -4,7 +4,7 @@
 #include<math.h>
 int main()
 {
-	int a[50],i,j,k,pos1,pos2,pos3,n,sum=0;
+	int a[50],i,j,k,pos1,pos2,pos3,n,sum=0,pos4=0;
 	scanf("%d",&n);
 	for(i=0;i<n;i++)
 	scanf("%d",&a[i]);
